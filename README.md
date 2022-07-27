@@ -1,4 +1,4 @@
-# Analyse comparative des solvers
+# Analyse comparative des solveurs
 
 Projet IRL réalisé par Léa Petit-Jean Genat sous l'encadrement de Nadia Brauner en collaboration avec Cléophée Robin.
 Le rapport détaillé s'intitule `lea_irl_rapport.pdf`.
