@@ -18,12 +18,12 @@ Le programme principal est `main.py`, il fournit des actions de base mais pour f
 il faut modifier le code.
 
 Pour fonctionner, les instances du problème doivent être de la forme :
-
+```
 n = 2;  
 r = [0, 0];  
 deadline = [4, 4];  
 p = [2, 2];  
 d = [1, 3];  
 w = [3, 1];
-
+```
 Les modèles CPO et LocalSolver ont été verifiés respectivement par Hadrien Cambazard et Julien Darlay.
