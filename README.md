@@ -12,7 +12,7 @@ Pour faire fonctionner le programme, il faut installer les modules Python :
 
 * [localsolver](https://www.localsolver.com/download.html/)
 
-Il est peut-être nécessaire d'installer d'autres modules comme [matplolib](https://matplotlib.org/stable/users/installing/index.html) ou [panda](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html) selon les utilisations.
+Il est peut-être nécessaire d'installer d'autres modules comme [matplolib](https://matplotlib.org/stable/users/installing/index.html) ou [pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html) selon les utilisations.
 
 Le programme principal est `main.py`, il fournit des actions de base mais pour faire des expérimentations spécifiques,
 il faut modifier le code.
